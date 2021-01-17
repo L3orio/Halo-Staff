@@ -1,0 +1,10 @@
+name: HaloStaff
+main: me.andydf.staff.Main
+version: 1.0
+author: [andrewjboro@gmail]
+description: Toggle Staff Roles.
+commands:
+  Staff+:
+    aliases: [S+]
+  Staff-:
+    aliases: [S-]

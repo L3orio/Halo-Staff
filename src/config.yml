@@ -1,0 +1,20 @@
+###################################################################
+### Must have Deluxechat & NameTag Edit for this plugin to work!###
+###################################################################
+
+# Make sure in Deluxe chat and NameTag Edit that the group has a higher priority than the staff priorities!
+
+
+Staff+MSG: '&6&lHALO &8 > &e&lUNDERCOVER MODE &c&lDISABLED&e&l!'
+DChat+CMD: 'lp user <name> permission unset chatformat.staff'
+NTE+CMD: 'lp user <name> permission unset nte.staff'
+
+Staff-MSG: '&6&lHALO &8> &e&lUNDERCOVER MODE &a&LENABLED&e&l!'
+DChat-CMD: 'lp user <name> permission set chatformat.staff'
+NTE-CMD: 'lp user <name> permission set nte.staff'
+
+
+
+
+# Made By AndyDF, HaloMC Network Owner
+# halomchub.co
